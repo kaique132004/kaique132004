@@ -1,4 +1,4 @@
-## ⚡ ⚡ Olá, Seja Bem-Vindo ao meu Perfil no Github.⚡⚡ 
+##  Olá, Seja Bem-Vindo ao meu Perfil no Github. 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaique.235.fly@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-cbarbosa/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_barbosakaiq/)
 
