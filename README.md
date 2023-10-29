@@ -4,8 +4,8 @@
 
 <div align="left">
   <a href="https://github.com/kaique132004">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=GustavoMoreiraDev&show_icons=true&theme=tokyonight" />
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMoreiraDev&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=kaique132004&show_icons=true&theme=dark" />
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique132004&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 ## 🟢Linguagens que tenho conhecimento🟢
