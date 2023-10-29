@@ -27,6 +27,14 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-4169E1?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
+## API'S que eu uso.
+
+<div style="display: inline-block"><br/>
+  <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img align="center" alt="DHL" src="https://img.shields.io/badge/dhl-yellow?style=for-the-badge&logo=dhl&logoColor=red" />
+  <img align="center" alt="STRIPE" src="https://img.shields.io/badge/stripe-blue?style=for-the-badge&logo=stripe&logoColor=white" />
+</div>
+
 ## Sobre
 - Desenvolvedor Full-Stack.
 - Estudante de Ciências da computação 2/8.⚡
