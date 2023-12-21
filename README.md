@@ -20,6 +20,7 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node-3CB371?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-4169E1?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </div>
 
 ## Frameworks
